@@ -54,3 +54,10 @@ The goal is to build a unified gold table for **Customer 360 View**, which inclu
 
 [Staging Zone] --> [Data Flow Transformation] --> [Gold Table: Customer_360]
 
+---
+
+## 🧑‍💼 Author
+- Ayub Khan
+- Data Engineer | Azure Enthusiast
+- 📧 khanayub25@outlook.com
+- 🌐 https://www.linkedin.com/in/ayub-khan-85073556/
